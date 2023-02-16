@@ -1,0 +1,1 @@
+Experience in Software Testing, hands-on Manual & Automation leveraging Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory, Cypress, Javascript, Jasmine, NodeJS on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
