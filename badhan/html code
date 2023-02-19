@@ -1,10 +1,11 @@
-<!DOCKTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>badhan demo html</title>
     </head>
     <body>
-        <h1>hi this is subroto kumar paul.this is my new html work.</h1>
-         <p>there is many type of language to learn.as like java,javascript,python,c,c++,c#,ruby</p>
+        <h1><strong>hi</strong> this is subroto kumar paul.this is my new html work.</h1>
+         <p>there is many type of <em>language</em> to learn.as like java,javascript,python,c,c++,c#,ruby</p>
+
     </body>
 </html>
